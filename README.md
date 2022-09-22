@@ -1,3 +1,3 @@
-# project-house-rocket-insights
+project-house-rocket-insights
 
 **a**
