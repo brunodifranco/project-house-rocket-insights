@@ -4,6 +4,8 @@
   <img src="https://user-images.githubusercontent.com/66283452/191957066-c9699023-eb0e-4e20-9508-869ee8038ecf.jpg" alt="drawing" width="850"/>
 </p>
 
+Author: Bruno Di Franco Albuquerque
+
 # 1. **House Rocket and Business Problem**
 House Rocket is a real estate company whose business model consists in identifying good deals, so that those properties could be bought for an interesting price and futurely sold for a higher price, so that the company could turn in a profit. For this particular case, House Rocket will be operating in King County, which includes Seattle. 
 
