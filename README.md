@@ -1,7 +1,6 @@
 # **HOUSE ROCKET INSIGHTS PROJECT**
 
-ADICIONAR FOTO AQUI
-
+<img src="https://user-images.githubusercontent.com/66283452/191957066-c9699023-eb0e-4e20-9508-869ee8038ecf.jpg" alt="drawing" width="500"/>
 
 ## 1. **House Rocket and Business Problem**
 House Rocket is a real estate company whose business model consists in identifying good deals, so that those properties could be bought for an interesting price and futurely sold for a higher price, so that the company could turn in a profit. For this particular case, House Rocket will be operating in King County, which includes Seattle. 
@@ -105,15 +104,18 @@ As for the suggested price, the density by region will be taken into account, wh
 
 
 
-1. QUESTÃO DE NEGÓCIO (O que você quer resolver?)
-1
+![basement](https://user-images.githubusercontent.com/66283452/191957530-20cdfbaa-c3b5-4571-82ac-fb98bf1d0330.png)
+
+
+
+![periods](https://user-images.githubusercontent.com/66283452/191957584-368c58e0-439f-4ecc-8bac-45809e8a74b7.png)
+
+![view](https://user-images.githubusercontent.com/66283452/191957609-8e83ff4d-1837-4fa0-8c19-27269ab2dd21.png)
 
 
 
 
-3. PREMISSAS DO NEGÓCIO (assumptions)
-4. PLAJANEMENTO DA SOLUÇÃO
-5. OS 5 PRINCIPAIS INSIGHTS DE NEGÓCIO (5 hipóteses (descobertas acionáveis) - pode ser mais ou menos que 5)
+
 6. RESULTADOS FINANCEIROS PARA O NEGÓCIO
 7. CONCLUSÃO (se o objetivo foi alcançado?)
 8. PRÓXIMOS PASSOS (como melhorar a solução?)
