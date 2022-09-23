@@ -128,20 +128,22 @@ As for the suggested price, the density by region will be taken into account, wh
 ---
 - ### 4th - Regions bordering Lake Washington produce, on average, 36.23% more profit in comparison to other regions.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66283452/191962512-eb5fc771-89b6-4b69-916f-c002520e7100.png" alt="drawing" width="750"/>
+  <img src="https://user-images.githubusercontent.com/66283452/192010463-9a0d6027-c6fa-4b4c-9e49-a539873a6ba2.png" alt="drawing" width="750"/>
 </p>
 
 #### **Usage**: House Rocket could focus on buying and selling properties around Lake Washington, since the profit will be higher in absolut values.
 ---
-- ### 5th - Properties built from 1941 up to 1983 have lower prices, on average, in comparison to later periods. While, properties built from 1900 to 1940 also have higher prices, on average.
+- ### 5th - Properties with the lowest prices (on average) were built from 1941 to 1983.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66283452/191962508-06aaa6af-a466-4181-8d23-e0e1ca88548f.png" alt="drawing" width="750"/>
 </p>
 
-#### **Usage**: House Rocket would have higher profits buying and selling properties from the mid 1980's upwards, as well as from 1900 to 1940.
+#### **Usage**: House Rocket would have higher profits buying and selling properties built from the mid 1980's upwards, as well as the ones built from 1900 to 1940.
 
 # 6. **Financial Results**
-Three interesting metrics to evaluate the financial performance for this solution is the profit mean and median (grouped by ad_season, zipcode and ad_season with zipcode), as well as the total profit. This in-depth information can be found in [here](https://github.com/brunodifranco/project-house-rocket-insights/tree/main/financial-results), alongside a [Density Map]() containing the average profit for each zipcode. As for the profit for each property it can be checked in this [link](), where filters can also be applied for better visualization. **If the solution strategy used in this project were applied by House Rocket the total obtained profit would be US$ 473,094,328.48, with an average profit of US$ 45,337.26 per property**. The main profit metrics are displayed below:
+Three interesting metrics to evaluate the financial performance for this solution is the profit mean and median (grouped by ad_season, zipcode and ad_season with zipcode), as well as the total profit. This in-depth information can be found in [here](https://github.com/brunodifranco/project-house-rocket-insights/tree/main/financial-results), alongside a [Density Map]() containing the average profit for each zipcode. As for the profit for each property it can be checked in this [link](), where filters can also be applied for better visualization. 
+
+**If the solution strategy used in this project were applied by House Rocket the total obtained profit would be US$ 473,094,328.48, with an average profit of US$ 45,337.26 per property**. The main profit metrics are displayed below:
 
 
 <div align="center">
@@ -171,5 +173,6 @@ Further on, this solution could be improved by using [regression models](https:/
 
 ## Contact
 
-- [@brunodifranco](https://www.github.com/brunodifranco)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BrunoDiFrancoAlbuquerque/)
 
+- brunodifranco99@gmail.com
