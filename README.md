@@ -170,7 +170,7 @@ In this project the two main objectives were accomplished:
 # 8. **Next Steps**
 Further on, this solution could be improved by using [regression models](https://www.imsl.com/blog/what-is-regression-model)  to determine wheter a property is in a good buying price, and for which price it could be bought and sold. Another interesting study would be to produce a market research, so that data about clients could be collected. Then, a [clustering algorithm](https://machinelearningmastery.com/clustering-algorithms-with-python/) could be applied to identify what types of property features each group of customers would prefer.  
 
-## Contact
+# Contact
 
 - brunodifranco99@gmail.com
 
