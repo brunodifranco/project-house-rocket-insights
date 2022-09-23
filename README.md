@@ -43,8 +43,11 @@ The data was collected from [Kaggle](https://www.kaggle.com/). This [dataset](ht
 | sqft_lot15 | The square footage of the land lots of the nearest 15 neighbors |
 
 
-# 3. **Business Assumptions**
+# 3. **Assumptions**
 
+ - Location in real estate is undoubtedly a decisive factor in price evaluation
+ - The address information for these properties was gathered by using the two created modules: [address.py](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/modules/address.py) and [defs.py](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/modules/defs.py)).
+ - So that the business problems could be solved a new feature was created: ad_season (column that shows on which season the property was announced in the real estate market (spring, summer, fall or winter).
 
 # 4. **Solution Plan**
 ## 4.1. How will both problems be solved?
@@ -145,7 +148,6 @@ Three interesting metrics to evaluate the financial performance for this solutio
 
 **If the solution strategy used in this project were applied by House Rocket the total obtained profit would be US$ 473,094,328.48, with an average profit of US$ 45,337.26 per property**. The main profit metrics are displayed below:
 
-
 <div align="center">
  
 | **Metric** | **US$** |
@@ -158,7 +160,6 @@ Three interesting metrics to evaluate the financial performance for this solutio
  
 </div>
 
-
 # 7. **Conclusion**
 In this project the two main objectives were accomplished:
 
@@ -169,10 +170,8 @@ In this project the two main objectives were accomplished:
 # 8. **Next Steps**
 Further on, this solution could be improved by using [regression models](https://www.imsl.com/blog/what-is-regression-model)  to determine wheter a property is in a good buying price, and for which price it could be bought and sold. Another interesting study would be to produce a market research, so that data about clients could be collected. Then, a [clustering algorithm](https://machinelearningmastery.com/clustering-algorithms-with-python/) could be applied to identify what types of property features each group of customers would prefer.  
 
-
-
 ## Contact
 
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BrunoDiFrancoAlbuquerque/)
-
 - brunodifranco99@gmail.com
+
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BrunoDiFrancoAlbuquerque/)
