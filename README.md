@@ -1,10 +1,9 @@
 <h1 align="center">HOUSE ROCKET INSIGHTS PROJECT</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66283452/191957066-c9699023-eb0e-4e20-9508-869ee8038ecf.jpg" alt="drawing" width="850"/>
+  <img src="https://user-images.githubusercontent.com/66283452/191957066-c9699023-eb0e-4e20-9508-869ee8038ecf.jpg" alt="drawing" width="750"/>
 </p>
 
-Author: Bruno Di Franco Albuquerque
 
 # 1. **House Rocket and Business Problem**
 House Rocket is a real estate company whose business model consists in identifying good deals, so that those properties could be bought for an interesting price and futurely sold for a higher price, so that the company could turn in a profit. For this particular case, House Rocket will be operating in King County, which includes Seattle. 
@@ -167,3 +166,8 @@ In this project the two main objectives were accomplished:
  We also managed to deliver tables with in-depth financial results, as well as buy and sell suggestion tables. Two maps were also provided: one with buy suggestions and another with the average profit by zipcode. All this information can be filtered by using the [House Rocket Cloud App](), that also has the five business insights.    
 # 8. **Next Steps**
 Further on, this solution could be improved by using [regression models](https://www.imsl.com/blog/what-is-regression-model)  to determine wheter a property is in a good buying price, and for which price it could be bought and sold. Another interesting study would be to produce a market research, so that data about clients could be collected. Then, a [clustering algorithm](https://machinelearningmastery.com/clustering-algorithms-with-python/) could be applied to identify what types of property features each group of customers would prefer.  
+
+
+# Contact
+
+Bruno Di Franco Albuquerque
