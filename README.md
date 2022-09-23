@@ -45,9 +45,9 @@ The data was collected from [Kaggle](https://www.kaggle.com/). This [dataset](ht
 
 # 3. **Assumptions**
 
- - Location in real estate is undoubtedly a decisive factor in price evaluation
- - The address information for these properties was gathered by using the two created modules: [address.py](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/modules/address.py) and [defs.py](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/modules/defs.py)).
- - So that the business problems could be solved a new feature was created: ad_season (column that shows on which season the property was announced in the real estate market (spring, summer, fall or winter).
+ - Location in real estate is undoubtedly a decisive factor in price evaluation.
+ - The address information for these properties was gathered by using the two created modules: [address.py](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/modules/address.py) and [defs.py](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/modules/defs.py).
+ - So that the business problems could be solved the **ad_season** feature was created. It's a column that shows on which season the property was announced in the real estate market (spring, summer, fall or winter).
 
 # 4. **Solution Plan**
 ## 4.1. How will both problems be solved?
