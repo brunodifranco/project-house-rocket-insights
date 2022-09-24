@@ -102,9 +102,9 @@ As for the suggested price, the density by region will be taken into account, wh
 - [VSCode](https://code.visualstudio.com/)
 - [Jupyter Notebook](https://jupyter.org/)
 - [Streamlit](https://streamlit.io/)
+- [Streamlit Cloud](https://streamlit.io/cloud)
 - [Git](https://git-scm.com/)
 - [Github](https://github.com/)
-- [Streamlit Cloud](https://streamlit.io/cloud)
 
 # 5. **Business Insights**
 
