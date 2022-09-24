@@ -10,7 +10,7 @@ House Rocket is a real estate company whose business model consists in identifyi
 
 *Obs: The  company and business problem are both fictitious, although the data is real.*
 
-This project is focused on solving two problems: 
+This **Data Science** project is focused on solving two problems: 
 
  - **Problem 1: Which properties should House Rocket buy and for which suggested price?**
  - **Problem 2: Once a property is bought, for which price should it be sold?**
