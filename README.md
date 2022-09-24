@@ -83,19 +83,17 @@ As for the suggested price, the density by region will be taken into account, wh
  - Solution to Problem 1:  
     
     - [Buy Suggestion Table: ](https://github.com/brunodifranco/project-house-rocket-insights/tree/main/tables/buy-suggestions): Contains buy suggestions and suggested buy prices
-    - [Suggestion Map](): Contains suggested properties to be bought, as well as their respective suggested buy price.
 
  - Solution to Problem 2: 
     - [Sell Suggestion Table](https://github.com/brunodifranco/project-house-rocket-insights/tree/main/tables/sell-sugestions): Contains suggested sell prices and profit
 
  - Financial Results:
-    - [Density Map](): Contains the average profit for each zipcode
     - [Profit descriptive analysis](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/financial-results/profit-descriptive-analysis.csv)
     - [Average and median profit grouped by ad_season](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/financial-results/med-avg-profit-by-season.csv)
     - [Average and median profit grouped by zipcode](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/financial-results/med-avg-profit-by-zipcode.csv)
     - [Average and median profit grouped by ad_season and zipcode](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/financial-results/med-avg-profit-by-zipcode-season.csv)
 
- - [House Rocket Cloud App](): App deployed in Heroku containing all tables (Buy Suggestion Table, Sell Suggestion Table and Financial Results Tables) with filters, maps (Suggestion Map and Density Map), as well as data insights.  
+ - [House Rocket Cloud App](https://brunodifranco-house-rocket-app-house-rocket-app-4dn0re.streamlitapp.com/): App deployed using Streamlit Cloud containing all tables (Buy Suggestion Table, Sell Suggestion Table and Financial Results Tables) with filters and a Buy Suggestion Map, as well as data insights.  
 
 ## 4.3. Used tools
 - [Python 3.9.12](https://www.python.org/downloads/release/python-3912/)
@@ -104,7 +102,7 @@ As for the suggested price, the density by region will be taken into account, wh
 - [Streamlit](https://streamlit.io/)
 - [Git](https://git-scm.com/)
 - [Github](https://github.com/)
-- [Heroku](https://www.heroku.com/python)
+- [Streamlit Cloud](https://streamlit.io/cloud)
 
 # 5. **Business Insights**
 
@@ -144,7 +142,7 @@ As for the suggested price, the density by region will be taken into account, wh
 #### **Usage**: House Rocket would have higher profits buying and selling properties built from the mid 1980's upwards, as well as the ones built from 1900 to 1940.
 
 # 6. **Financial Results**
-Three interesting metrics to evaluate the financial performance for this solution is the profit mean and median (grouped by ad_season, zipcode and ad_season with zipcode), as well as the total profit. This in-depth information can be found in [here](https://github.com/brunodifranco/project-house-rocket-insights/tree/main/financial-results), alongside a [Density Map]() containing the average profit for each zipcode. As for the profit for each property it can be checked in this [link](), where filters can also be applied for better visualization. 
+Three interesting metrics to evaluate the financial performance for this solution is the profit mean and median (grouped by ad_season, zipcode and ad_season with zipcode), as well as the total profit. This in-depth information can be found in [here](https://github.com/brunodifranco/project-house-rocket-insights/tree/main/financial-results). As for the profit for each property it can be checked in the [House Rocket Cloud App](https://brunodifranco-house-rocket-app-house-rocket-app-4dn0re.streamlitapp.com/), where filters can also be applied for better visualization. 
 
 **If the solution strategy used in this project were applied by House Rocket the total obtained profit would be US$ 473,094,328.48, with an average profit of US$ 45,337.26 per property**. The main profit metrics are displayed below:
 
@@ -166,9 +164,10 @@ In this project the two main objectives were accomplished:
  - A feasible solution was found for both business problems, leading to profitable results.
  - Five interesting and useful insights were found through Exploratory Data Analysis (EDA).
 
- We also managed to deliver tables with in-depth financial results, as well as buy and sell suggestion tables. Two maps were also provided: one with buy suggestions and another with the average profit by zipcode. All this information can be filtered by using the [House Rocket Cloud App](), that also has the five business insights.    
+ We also managed to deliver tables with in-depth financial results, as well as buy and sell suggestion tables. All this information can be filtered by using the [House Rocket Cloud App](https://brunodifranco-house-rocket-app-house-rocket-app-4dn0re.streamlitapp.com/), that also has the five business insights and a interactive Buy Suggestion Map.   
+ 
 # 8. **Next Steps**
-Further on, this solution could be improved by using [regression models](https://www.imsl.com/blog/what-is-regression-model)  to determine wheter a property is in a good buying price, and for which price it could be bought and sold. Another interesting study would be to produce a market research, so that data about clients could be collected. Then, a [clustering algorithm](https://machinelearningmastery.com/clustering-algorithms-with-python/) could be applied to identify what types of property features each group of customers would prefer.  
+Further on, this solution could be improved by using [regression models](https://www.imsl.com/blog/what-is-regression-model) to determine wheter a property is in a good buying price, and for which price it could be bought and sold. Another interesting study would be to produce a market research, so that data about clients could be collected. Then, a [clustering algorithm](https://machinelearningmastery.com/clustering-algorithms-with-python/) could be applied to identify what types of property features each group of customers would prefer.  
 
 # Contact
 
