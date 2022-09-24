@@ -1,4 +1,4 @@
-<h1 align="center">HOUSE ROCKET INSIGHTS PROJECT</h1>
+<h1 align="center">House Rocket Insights Project</h1>
 <p align="center">Data Science Project</p>
 
 <p align="center">
