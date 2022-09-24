@@ -15,7 +15,7 @@ This **Data Science** project is focused on solving two problems:
  - **Problem 1: Which properties should House Rocket buy and for which suggested price?**
  - **Problem 2: Once a property is bought, for which price should it be sold?**
 
-*The in-depth Python code explanation is available in [this]() Jupyter Notebook.
+*The in-depth Python code explanation is available in [this](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/jupyter-house-rocket.ipynb) Jupyter Notebook.*
 
 # 2. **Data Overview**
 The data was collected from [Kaggle](https://www.kaggle.com/). This [dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) contains house sale prices for King County, from May 2014 to May 2015. The features descriptions are available below:
