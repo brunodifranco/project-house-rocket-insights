@@ -15,6 +15,8 @@ This **Data Science** project is focused on solving two problems:
  - **Problem 1: Which properties should House Rocket buy and for which suggested price?**
  - **Problem 2: Once a property is bought, for which price should it be sold?**
 
+*The in-depth Python code explanation is available in [this]() Jupyter Notebook.
+
 # 2. **Data Overview**
 The data was collected from [Kaggle](https://www.kaggle.com/). This [dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) contains house sale prices for King County, from May 2014 to May 2015. The features descriptions are available below:
 
@@ -82,7 +84,7 @@ As for the suggested price, the density by region will be taken into account, wh
 ## 4.2. What will be delivered?
  - Solution to Problem 1:  
     
-    - [Buy Suggestion Table: ](https://github.com/brunodifranco/project-house-rocket-insights/tree/main/tables/buy-suggestions): Contains buy suggestions and suggested buy prices
+    - [Buy Suggestion Table](https://github.com/brunodifranco/project-house-rocket-insights/tree/main/tables/buy-suggestions): Contains buy suggestions and suggested buy prices
 
  - Solution to Problem 2: 
     - [Sell Suggestion Table](https://github.com/brunodifranco/project-house-rocket-insights/tree/main/tables/sell-sugestions): Contains suggested sell prices and profit
