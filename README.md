@@ -147,7 +147,7 @@ The properties that will receive a buy suggestion will be the ones that fulfill 
 
 <p align="justify"> Three interesting metrics to evaluate the financial performance for this solution is the profit mean and median (grouped by ad_season, zipcode and ad_season with zipcode), as well as the total profit. This in-depth information can be found in <a href="https://github.com/brunodifranco/project-house-rocket-insights/tree/main/financial-results">here</a>. As for the profit for each property it can be checked in the <a href="https://brunodifranco-house-rocket-app-house-rocket-app-4dn0re.streamlitapp.com/">House Rocket Cloud App</a>, where filters can also be applied for better visualization. </p>
 
-<p align="justify"> <b> If the solution strategy used in this project were applied by House Rocket the total obtained profit would be US$ 473,094,328.48, with an average profit of US$ 45,337.26 per property. The main profit metrics are displayed below: </b></p>
+<p align="justify"> <b> If this feasible solution strategy used in this project were applied by House Rocket the total obtained profit would be US$ 473,094,328.48, with an average profit of US$ 45,337.26 per property. The main profit metrics are displayed below: </b></p>
 
 <div align="center">
  
