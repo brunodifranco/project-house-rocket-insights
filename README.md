@@ -175,5 +175,4 @@ In this project the two main objectives were accomplished:
 # Contact
 
 - brunodifranco99@gmail.com
-
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BrunoDiFrancoAlbuquerque/)
