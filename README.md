@@ -6,7 +6,7 @@
 </p>
 
 # 1. **House Rocket and Business Problem**
-House Rocket is a real estate company whose business model consists in identifying good deals, so that those properties could be bought for an interesting price and futurely sold for a higher price, so that the company could turn in a profit. For this particular case, House Rocket will be operating in King County, which includes Seattle. 
+<p align="justify"> House Rocket is a real estate company whose business model consists in identifying good deals, so that those properties could be bought for an interesting price and futurely sold for a higher price, so that the company could turn in a profit. For this particular case, House Rocket will be operating in King County, which includes Seattle. </p>
 
 *Obs: The  company and business problem are both fictitious, although the data is real.*
 
@@ -55,15 +55,14 @@ The data was collected from [Kaggle](https://www.kaggle.com/). This [dataset](ht
 ## 4.1. How will both problems be solved?
 
 ### **Problem 1: Which properties should House Rocket buy and for which suggested price?**
-
-To solve this problem, we firstly need to analyse the properties by their location, because in real estate, location is undoubtedly a decisive factor in price evaluation. One interesting metric in this case is to calculate the price median by each zipcode, as the median isn't influenced by extreme values (outliers) in the data. 
+<p align="justify"> To solve this problem, we firstly need to analyse the properties by their location, because in real estate, location is undoubtedly a decisive factor in price evaluation. One interesting metric in this case is to calculate the price median by each zipcode, as the median isn't influenced by extreme values (outliers) in the data. </p>
 
 The properties that will receive a buy suggestion will be the ones that fulfill the two following rules:
 
 - Their asked price has to be lower than the median price for that region
 - The property needs to be in good conditions, which means condition >= 3
 
-As for the suggested price, the density by region will be taken into account, which means that for properties in regions that have a higher number of real estate ads it's viable to offer lower prices, and vice-versa. Therefore the rule for suggested buy prices is:
+<p align="justify"> As for the suggested price, the density by region will be taken into account, which means that for properties in regions that have a higher number of real estate ads it's viable to offer lower prices, and vice-versa. Therefore the rule for suggested buy prices is: </p> 
 
 - From 0 to 204 properties in the region => Offer the asked price 
 - From 205 to 282 properties in the region => Offer 3% less than the asked price
@@ -72,14 +71,14 @@ As for the suggested price, the density by region will be taken into account, wh
 
 ### **Problem 2: Once a property is bought, for which price should it be sold?**
 
- To suggest a sell price, again the density by region will be considered, since for regions where the number of real estate ads is lower it's possible to sell the property for a higher price, and vice-versa. Hence, a reasonable rule for suggested sell prices is:
+<p align="justify"> To suggest a sell price, again the density by region will be considered, since for regions where the number of real estate ads is lower it's possible to sell the property for a higher price, and vice-versa. Hence, a reasonable rule for suggested sell prices is: </p>
 
 - From 0 to 204 properties in the region => Sell for 16% than the suggested buy price 
 - From 205 to 282 properties in the region => Sell for 14% than the suggested buy price
 - From 283 to 408 properties in the region => Sell for 12% than the suggested buy price
 - From 409 properties upwards => Sell for 10% than the suggested buy price
 
-*It's important to point out that selling a property for 10-16% more than the paid price is just a suggestion, so that the selling prices are realistic, since selling a property on a short run for say 30-40% more, although it can happen, it seems unlikely (or it would take too long to sell).*
+<p align="justify"> <i>It's important to point out that selling a property for 10-16% more than the paid price is just a suggestion, so that the selling prices are realistic, since selling a property on a short run for say 30-40% more, although it can happen, it seems unlikely (or it would take too long to sell).</i> </p>
 
 ## 4.2. What will be delivered?
  - Solution to Problem 1:  
@@ -94,8 +93,8 @@ As for the suggested price, the density by region will be taken into account, wh
     - [Average and median profit grouped by ad_season](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/financial-results/med-avg-profit-by-season.csv)
     - [Average and median profit grouped by zipcode](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/financial-results/med-avg-profit-by-zipcode.csv)
     - [Average and median profit grouped by ad_season and zipcode](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/financial-results/med-avg-profit-by-zipcode-season.csv)
-
- - [House Rocket Cloud App](https://brunodifranco-house-rocket-app-house-rocket-app-4dn0re.streamlitapp.com/): App deployed using Streamlit Cloud containing all tables (Buy Suggestion Table, Sell Suggestion Table and Financial Results Tables) with filters and a Buy Suggestion Map, as well as data insights.  
+    - [House Rocket Cloud App](https://brunodifranco-house-rocket-app-house-rocket-app-4dn0re.streamlitapp.com/): App deployed using Streamlit Cloud containing all tables (Buy Suggestion Table, Sell Suggestion Table and Financial Results Tables) with filters and a Buy Suggestion Map, as well as data insights.
+ 
 
 ## 4.3. Used tools
 - [Python 3.9.12](https://www.python.org/downloads/release/python-3912/)
@@ -144,9 +143,10 @@ As for the suggested price, the density by region will be taken into account, wh
 #### **Usage**: House Rocket would have higher profits buying and selling properties built from the mid 1980's upwards, as well as the ones built from 1900 to 1940.
 
 # 6. **Financial Results**
-Three interesting metrics to evaluate the financial performance for this solution is the profit mean and median (grouped by ad_season, zipcode and ad_season with zipcode), as well as the total profit. This in-depth information can be found in [here](https://github.com/brunodifranco/project-house-rocket-insights/tree/main/financial-results). As for the profit for each property it can be checked in the [House Rocket Cloud App](https://brunodifranco-house-rocket-app-house-rocket-app-4dn0re.streamlitapp.com/), where filters can also be applied for better visualization. 
 
-**If the solution strategy used in this project were applied by House Rocket the total obtained profit would be US$ 473,094,328.48, with an average profit of US$ 45,337.26 per property**. The main profit metrics are displayed below:
+<p align="justify"> Three interesting metrics to evaluate the financial performance for this solution is the profit mean and median (grouped by ad_season, zipcode and ad_season with zipcode), as well as the total profit. This in-depth information can be found in <a href="https://github.com/brunodifranco/project-house-rocket-insights/tree/main/financial-results">here</a>. As for the profit for each property it can be checked in the <a href="https://brunodifranco-house-rocket-app-house-rocket-app-4dn0re.streamlitapp.com/">House Rocket Cloud App</a>, where filters can also be applied for better visualization. </p>
+
+<p align="justify"> <b> If the solution strategy used in this project were applied by House Rocket the total obtained profit would be US$ 473,094,328.48, with an average profit of US$ 45,337.26 per property. The main profit metrics are displayed below: </b></p>
 
 <div align="center">
  
@@ -169,7 +169,7 @@ In this project the two main objectives were accomplished:
  We also managed to deliver tables with in-depth financial results, as well as buy and sell suggestion tables. All this information can be filtered by using the [House Rocket Cloud App](https://brunodifranco-house-rocket-app-house-rocket-app-4dn0re.streamlitapp.com/), that also has the five business insights and a interactive Buy Suggestion Map.   
  
 # 8. **Next Steps**
-Further on, this solution could be improved by using [regression models](https://www.imsl.com/blog/what-is-regression-model) to determine wheter a property is in a good buying price, and for which price it could be bought and sold. Another interesting study would be to produce a market research, so that data about clients could be collected. Then, a [clustering algorithm](https://machinelearningmastery.com/clustering-algorithms-with-python/) could be applied to identify what types of property features each group of customers would prefer.  
+<p align="justify"> Further on, this solution could be improved by using <a href="https://www.imsl.com/blog/what-is-regression-model">regression models</a> to determine wheter a property is in a good buying price, and for which price it could be bought and sold. Another interesting study would be to produce a market research, so that data about clients could be collected. Then, a <a href="https://machinelearningmastery.com/clustering-algorithms-with-python/">clustering algorithm</a> could be applied to identify what types of property features each group of customers would prefer. </p>
 
 # Contact
 
