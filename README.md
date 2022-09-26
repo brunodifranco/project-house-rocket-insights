@@ -1,5 +1,5 @@
 <h1 align="center">House Rocket Insights Project</h1>
-<p align="center">Data Science Project</p>
+<p align="center">Data Science Insights Project</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66283452/191957066-c9699023-eb0e-4e20-9508-869ee8038ecf.jpg" alt="drawing" width="750"/>
