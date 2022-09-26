@@ -1,4 +1,8 @@
-<h1 align="center">House Rocket Insights Project</h1>
+<h1 align="center">Business solution for real estate company</h1>
+
+
+
+
 <p align="center">Data Science Insights Project</p>
 
 <p align="center">
