@@ -7,7 +7,7 @@
 </p>
 
 # 1. **House Rocket and Business Problem**
-<p align="justify"> House Rocket is a real estate company whose business model consists in identifying good deals, so that those properties could be bought for an interesting price and futurely sold for a higher price, so that the company could turn in a profit. For this particular instance, House Rocket will operate in King County, which includes Seattle. </p>
+<p align="justify"> House Rocket is a real estate company whose business model consists in identifying good deals, so that those properties could be bought for an interesting price and futurely sold for a higher price, therefore the company could turn in a profit. For this particular instance, House Rocket will operate in King County, which includes Seattle. </p>
 
 *Obs: The  company and business problem are both fictitious, although the data is real.*
 
