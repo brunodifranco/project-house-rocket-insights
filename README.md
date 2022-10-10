@@ -95,16 +95,14 @@ The properties that will receive a buy suggestion will be the ones that fulfill 
     - [Average and median profit grouped by zipcode](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/financial-results/med-avg-profit-by-zipcode.csv)
     - [Average and median profit grouped by ad_season and zipcode](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/financial-results/med-avg-profit-by-zipcode-season.csv)
     - [House Rocket Cloud App](https://brunodifranco-house-rocket-app-house-rocket-app-4dn0re.streamlitapp.com/): App deployed using Streamlit Cloud containing all tables (Buy Suggestion Table, Sell Suggestion Table and Financial Results Tables) with filters and a Buy Suggestion Map, as well as data insights.
- 
 
-## 4.3. Used tools
-- [Python 3.9.12](https://www.python.org/downloads/release/python-3912/)
-- [VSCode](https://code.visualstudio.com/)
-- [Jupyter Notebook](https://jupyter.org/)
-- [Streamlit](https://streamlit.io/)
-- [Streamlit Cloud](https://streamlit.io/cloud)
-- [Git](https://git-scm.com/)
-- [Github](https://github.com/)
+## 4.3. Tools and techniques used:
+- [Python 3.9.12](https://www.python.org/downloads/release/python-3912/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Plotly](https://plotly.com/python/) and [Geopandas](https://geopandas.org/en/stable/).
+- [Jupyter Notebook](https://jupyter.org/) and [VSCode](https://code.visualstudio.com/). 
+- [Streamlit](https://streamlit.io/) and [Streamlit Cloud](https://streamlit.io/cloud).
+- [Git](https://git-scm.com/) and [Github](https://github.com/).
+- [Measures of Central Tendency and Dispersion](https://towardsdatascience.com/statistics-central-tendency-5e514a2f98fd).
+- [Exploratory Data Analysis (EDA)](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15). 
 
 # 5. **Business Insights**
 
