@@ -53,7 +53,7 @@ The data was collected from [Kaggle](https://www.kaggle.com/). This [dataset](ht
  - So that the business problems could be solved the **ad_season** feature was created. It's a column that shows on which season the property was announced in the real estate market (spring, summer, fall or winter).
 
 # 4. **Solution Plan**
-## 4.1. How will both problems be solved?
+## 4.1. How were both problems solved?
 
 ### **Problem 1: Which properties should House Rocket buy and for which suggested price?**
 <p align="justify"> To solve this problem, we firstly need to analyse the properties by their location, because in real estate, location is undoubtedly a decisive factor in price evaluation. One interesting metric in this case is to calculate the price median by each zipcode, as the median isn't influenced by extreme values (outliers) in the data. </p>
@@ -81,7 +81,7 @@ The properties that will receive a buy suggestion will be the ones that fulfill 
 
 <p align="justify"> <i>It's important to point out that selling a property for 10-16% more than the paid price is just a suggestion, so that the selling prices are realistic, since selling a property on a short run for say 30-40% more, although it can happen, it seems unlikely (or it would take too long to sell).</i> </p>
 
-## 4.2. What will be delivered?
+## 4.2. What was delivered as a **solution**?
  - Solution to Problem 1:  
     
     - [Buy Suggestion Table](https://github.com/brunodifranco/project-house-rocket-insights/tree/main/tables/buy-suggestions): Contains buy suggestions and suggested buy prices
