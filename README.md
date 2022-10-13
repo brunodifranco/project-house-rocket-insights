@@ -3,8 +3,8 @@
 <p align="center">Data Science Insights Project</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66283452/195710660-35608e38-2487-424d-8579-9ab53d3cc46e.png" alt="drawing" width="700"/>
-</p>
+  <img src="https://user-images.githubusercontent.com/66283452/195714734-222524af-cb0c-4ea1-bc99-b1ad8c021ceb.jpg" alt="drawing" width="700"/>
+
 
 # 1. **House Rocket and Business Problem**
 <p align="justify"> House Rocket is a real estate company whose business model consists in identifying good deals, so that those properties could be bought for an interesting price and futurely sold for a higher price, therefore the company could turn in a profit. For this particular instance, House Rocket will operate in King County, which includes Seattle. </p>
