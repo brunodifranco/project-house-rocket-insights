@@ -3,7 +3,7 @@
 <p align="center">Data Science Insights Project</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66283452/195710660-35608e38-2487-424d-8579-9ab53d3cc46e.png" alt="drawing" width="750"/>
+  <img src="https://user-images.githubusercontent.com/66283452/195710660-35608e38-2487-424d-8579-9ab53d3cc46e.png" alt="drawing" width="700"/>
 </p>
 
 # 1. **House Rocket and Business Problem**
