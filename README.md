@@ -1,22 +1,22 @@
 <h1 align="center">Business Solution for Real Estate Company</h1>
 
-<p align="center">Data Science Insights Project</p>
+<p align="center">A Data Science Insights Project</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66283452/195714734-222524af-cb0c-4ea1-bc99-b1ad8c021ceb.jpg" alt="drawing" width="700"/>
-
+  
+  *Obs: The  company and business problem are both fictitious, although the data is real.*
+  
+  *The in-depth Python code explanation is available in [this](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/jupyter-house-rocket.ipynb) Jupyter Notebook.*
+  
 
 # 1. **House Rocket and Business Problem**
 <p align="justify"> House Rocket is a real estate company whose business model consists in identifying good deals, so that those properties could be bought for an interesting price and futurely sold for a higher price, therefore the company could turn in a profit. For this particular instance, House Rocket will operate in King County, which includes Seattle. </p>
-
-*Obs: The  company and business problem are both fictitious, although the data is real.*
 
 This **Data Science** project is focused on solving two problems: 
 
  - **Problem 1: Which properties should House Rocket buy and for which suggested price?**
  - **Problem 2: Once a property is bought, for which price should it be sold?**
-
-*The in-depth Python code explanation is available in [this](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/jupyter-house-rocket.ipynb) Jupyter Notebook.*
 
 # 2. **Data Overview**
 The data was collected from [Kaggle](https://www.kaggle.com/). This [dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) contains house sales prices for King County, from May 2014 to May 2015. The features descriptions are available below:
