@@ -1,6 +1,6 @@
 <h1 align="center">Business Solution for Real Estate Company</h1>
 
-<p align="center">A Data Science Insights Project</p>
+<p align="center">A Data Analysis Project</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66283452/195714734-222524af-cb0c-4ea1-bc99-b1ad8c021ceb.jpg" alt="drawing" width="700"/>
