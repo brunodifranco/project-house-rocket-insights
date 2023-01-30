@@ -169,13 +169,12 @@ In this project the two main objectives were accomplished:
 
  We also managed to deliver tables with in-depth financial results, as well as buy and sell suggestion tables. All this information can be filtered by using the House Rocket Streamlit App, that also has the five business insights and a interactive Buy Suggestion Map.   
   
-  <div align="center">
+<div align="center">
 
 |         **Click below to access the App**        |
 |:------------------------:|
 |         [![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://brunodifranco-house-rocket-app-house-rocket-app-4dn0re.streamlitapp.com/)
 </div>
-
  
 # 8. **Next Steps**
 <p align="justify"> Further on, this solution could be improved by using <a href="https://www.imsl.com/blog/what-is-regression-model">regression models</a> to determine wheter a property has a good buying price, and for which price it could be bought and sold. Another interesting study would be to produce a market research, so that data about clients could be collected. Then, a <a href="https://machinelearningmastery.com/clustering-algorithms-with-python/">clustering algorithm</a> could be applied to identify what types of property features each group of customers would prefer. </p>
