@@ -3,11 +3,12 @@
 <p align="center">A Data Analysis Project</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66283452/195714734-222524af-cb0c-4ea1-bc99-b1ad8c021ceb.jpg" alt="drawing" width="700"/>
+<img src="https://user-images.githubusercontent.com/66283452/215511396-e871ea78-fe16-4dfe-8995-4bf392d251f6.png" alt="drawing" width="450"/>
+</p> 
+
+*Obs: The  company and business problem are both fictitious, although the data is real.*
   
-  *Obs: The  company and business problem are both fictitious, although the data is real.*
-  
-  *The in-depth Python code explanation is available in [this](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/jupyter-house-rocket.ipynb) Jupyter Notebook.*
+*The in-depth Python code explanation is available in [this](https://github.com/brunodifranco/project-house-rocket-insights/blob/main/jupyter-house-rocket.ipynb) Jupyter Notebook.*
   
 
 # 1. **House Rocket and Business Problem**
