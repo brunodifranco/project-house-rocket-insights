@@ -3,7 +3,7 @@
 <p align="center">A Data Analysis Project</p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/66283452/215511396-e871ea78-fe16-4dfe-8995-4bf392d251f6.png" alt="drawing" width="450"/>
+<img src="https://user-images.githubusercontent.com/66283452/215511396-e871ea78-fe16-4dfe-8995-4bf392d251f6.png" alt="drawing" width="400"/>
 </p> 
 
 *Obs: The  company and business problem are both fictitious, although the data is real.*
